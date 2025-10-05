@@ -1,0 +1,1 @@
+const dob = document.getElementById("dob");
